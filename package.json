@@ -31,7 +31,7 @@
     "dist"
   ],
   "author": "pseudorizer",
-  "license": "MIT",
+  "license": "GPLv3",
   "devDependencies": {
     "@tsconfig/node20": "^20.1.2",
     "@types/node": "^20.8.10",
