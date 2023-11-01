@@ -29,7 +29,7 @@
   "files": [
     "src",
     "dist"
-  ]
+  ],
   "author": "pseudorizer",
   "license": "MIT",
   "devDependencies": {
